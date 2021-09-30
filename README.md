@@ -7,7 +7,7 @@
 ```
 npx serve
 ```
-Do this in root, then head to http://localhost:5000/src/#/ . If you are given a different localhost address this is fine, however data cannot be stored as the peer stores on 5000. You can change this line 6 PeerManager.js
+Do this in root, then head to http://localhost:5000/src/#/ . If you are given a different localhost address this is fine, however data cannot be stored as the peer stores on 5000. You can change this on line 6 PeerManager.js
 
 <hr/>
 
