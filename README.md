@@ -13,7 +13,7 @@ Do this in root, then head to http://localhost:5000/src/#/ . If you are given a 
 
 <h3>Theory</h3>
 
-If this is not clearing things up create an issue. We need clarity in the debrief of this project.
+<p>If this is not clearing things up create an issue. We need clarity in the debrief of this project.</p>
 ------
 Users can: <br/>
   Make orders: See Orders<br/>
