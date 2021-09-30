@@ -32,7 +32,6 @@ Users can: <br/>
             └── Blueprint   # See Above
             
 
-------
 
 <hr/>
 <h3>Community</h3>
@@ -44,3 +43,8 @@ Orders, blueprints, Dismans - why reinvent the wheel.<br/><br/>
 
 Its not about getting your custom part (really) were mapping the exit routes to autonomy. Collecting data, sharing data, learning off it to be able to bootstrap the ability to live in a given area without outside aid.
 <br/><br/>
+
+![solarpunk](https://user-images.githubusercontent.com/68570004/135540416-4c59a3fc-51bd-4aa6-8a35-f88a8a09ec55.jpeg)
+
+<br/><br/>
+We want the ability to say no. Ixnay.
