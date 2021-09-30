@@ -1,0 +1,9 @@
+@font-face{
+  font-family: arialBlack;
+  src: url(arial-black.ttf) ;
+}
+
+.header-content{
+  display: none;
+}
+
